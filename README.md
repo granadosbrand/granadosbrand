@@ -2,9 +2,8 @@
 
 ## Sobre mí
 
-- 🤔 Explorando nuevas tecnologías y oportunidades
-- 🎓 Estudiante de Ingeniería de Software
-- 💼 Soy Ingeniero en Desarrollo IT en Sonepar
+-  Explorando nuevas tecnologías y oportunidades
+- Ingeniero de Software
 
 
 ## Skills
