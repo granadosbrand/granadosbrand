@@ -1,11 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=granadosbrand&color=006bed)
 
-## Sobre mí
-
--  Explorando nuevas tecnologías y oportunidades
-- Ingeniero de Software
-
-
 ## Skills
 
 
@@ -32,10 +26,6 @@
 
 
 <br/>
-
-<a href="https://github.com/granadosbrand" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=granadosbrand&theme=dracula&show_icons=true" />
-</a>
 
 ## Encuéntrame en:
 
